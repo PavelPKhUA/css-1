@@ -121,7 +121,7 @@ div.eight-task p:last-of-type {
   color: red;
 }
 
-.lesson-three-task-ten p::first-line {
+.lesson-three-task-ten p:first-child:first-line {
   background: yellow;
 }
 
